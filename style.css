@@ -258,10 +258,10 @@ margin-right: 30px;
 
 .amazon_icon {
   background-image: url("amazon_logo-2.png");
-  background-size: contain; /* Change to 'contain' for a better fit */
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: center; /* Adjust as needed */
-  height: 100%; /* Use 100% to fill the entire container */
+  background-position: center; 
+  height: 100%;
   width: 100%;
 }
 
@@ -277,16 +277,16 @@ margin-right: 30px;
 
 .line1 {
   display: flex;
-  gap: 10px; /* Adjust the spacing between links as needed */
+  gap: 10px; 
 }
 
 .line1 a {
   text-decoration: none;
-  color: #dddddd; /* Set the color you desire for the links */
+  color: #dddddd; 
 }
 
 .line2 {
-  margin-top: 10px; /* Adjust the margin between line1 and line2 as needed */
-  font-size: 14px; /* Adjust the font size as needed */
-  color: #dddddd; /* Set the color you desire for line2 */
+  margin-top: 10px;
+  font-size: 14px;
+  color: #dddddd;
 }
